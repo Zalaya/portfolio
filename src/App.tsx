@@ -1,12 +1,7 @@
-import React from "react"
-import "./App.css"
+export default function App() {
+    return (
+        <>
 
-function App() {
-  return (
-    <React.Fragment>
-      
-    </React.Fragment>
-  )
+        </>
+    )
 }
-
-export default App
