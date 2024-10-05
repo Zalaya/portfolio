@@ -21,3 +21,4 @@ dist-ssr
 *.sw?
 *.tsbuildinfo
 *storybook.log
+storybook-static
