@@ -1,7 +1,3 @@
-export default function App() {
-    return (
-        <>
+export const App = () => {
 
-        </>
-    )
 }
