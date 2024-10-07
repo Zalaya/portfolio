@@ -3,7 +3,7 @@
     "private": true,
     "version": "1.0.0-SNAPSHOT",
     "type": "module",
-    "homepage": "https://zalaya.github.io/",
+    "homepage": "https://zalaya.github.io/portfolio/",
     "scripts": {
         "dev": "vite",
         "build": "tsc -b && vite build",
